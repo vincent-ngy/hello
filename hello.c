@@ -1,7 +1,7 @@
 /**
  * Author: Vincent Nguyen
  *         vnguyen61@huskers.unl.edu
- * Date: 2026/08/25
+ * Date: 2026/08/27
  *
  * A simple hello world program in C
  *
@@ -11,8 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
-  printf("I love the School of Computing!");
+  printf("Hello World, My name is Vincent!\n");
+  printf("I'm majoring in Computer Science\n");
 
   return 0;
 }
